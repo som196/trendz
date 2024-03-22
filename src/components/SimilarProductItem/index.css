@@ -1,0 +1,14 @@
+.product-thumbnail {
+  height: 200px;
+  width: 200px;
+  border-radius: 2%;
+}
+.title-thumbnail {
+  font-size: 15px;
+}
+.brand-thumbnail {
+  font-size: 13px;
+}
+.thumbnails-main-container {
+  margin: 10px;
+}
